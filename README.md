@@ -1,0 +1,4 @@
+sektek-archetypes
+=================
+
+Maven Archetypes
